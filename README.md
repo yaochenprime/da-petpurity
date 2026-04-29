@@ -11,7 +11,7 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
 ☀️ **INTJ** — 用数据解构世界，用直觉洞察本质。
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **语言**
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 | 时间 | 公司 | 职位 |
 | --- | --- | --- |
@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
