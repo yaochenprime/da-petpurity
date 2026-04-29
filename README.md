@@ -45,7 +45,7 @@
 **因果推断**
 
 ![ABtest](https://img.shields.io/badge/A%2FB%20Test-4CAF50?style=for-the-badge&logoColor=white)
-![DID](https://img.shields.io/badge/DID%20双重差分-4CAF50?style=for-the-badge&logoColor=white)
+![DID](https://img.shields.io/badge/DID%20-4CAF50?style=for-the-badge&logoColor=white)
 ![Tigramite](https://img.shields.io/badge/Tigramite-2196F3?style=for-the-badge&logoColor=white)
 
 **大数据**
