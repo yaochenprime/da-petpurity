@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Dongwen%20Tan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=数据分析师%20·%20数据科学%20·%20数据挖掘工程师&descSize=16&descAlignY=52&descColor=ffffff" />
 
 <!-- 联系方式 -->
-[![Gmail](https://img.shields.io/badge/Gmail-petpurity.dw@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:petpurity.dw@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-yaochenprime@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaochenprime@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=da-petpurity&style=flat-square&color=blue)](https://github.com/da-petpurity)
 
 </div>
