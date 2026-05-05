@@ -1,12 +1,7 @@
 <div align="center">
 
 <!-- 渐变装饰条 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Dongwen%20Tan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
-
-<!-- 打字机动态副标题 -->
-<a href="https://github.com/da-petpurity">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88;%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%B6;%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%B7%A5%E7%A8%8B%E5%B8%88" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Dongwen%20Tan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=数据分析师%20·%20数据科学%20·%20数据挖掘工程师&descSize=16&descAlignY=52&descColor=ffffff" />
 
 <!-- 联系方式 -->
 [![Gmail](https://img.shields.io/badge/Gmail-yaochenprime@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaochenprime@gmail.com)
