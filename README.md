@@ -5,7 +5,7 @@
 
 <!-- 打字机动态副标题 -->
 <a href="https://github.com/da-petpurity">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=数据分析师+📊;数据科学家+🔬;数据挖掘工程师+⛏️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88;%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%B6;%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%B7%A5%E7%A8%8B%E5%B8%88" alt="Typing SVG" />
 </a>
 
 <!-- 联系方式 -->
@@ -18,36 +18,29 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table><tr><td>
 
-### ☀️ 性格
-**INTJ** — 用数据解构世界，用直觉洞察本质。
+**☀️ 性格　　**INTJ — 用数据解构世界，用直觉洞察本质。
 
-</td>
-<td width="50%" valign="top">
+</td></tr></table>
 
-### 🌱 专业方向
-专注于**用户分层**、**用户增长**、**因果推断与推荐算法**、**系统搭建**，将数据洞察转化为业务增长。
+<table><tr><td>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**🌱 专业方向　　**专注于用户分层、用户增长、因果推断与推荐算法、系统搭建，将数据洞察转化为业务增长。
 
-### 💡 工作理念
-热爱用数据讲故事，追求用最简洁的方案解决复杂问题。
+</td></tr></table>
 
-</td>
-<td width="50%" valign="top">
+<table><tr><td>
 
-### 📚 兴趣爱好
-心理学 · 易经 · 唱歌 · R&B 🎤
+**💡 工作理念　　**热爱用数据讲故事，追求用最简洁的方案解决复杂问题。
 
-</td>
-</tr>
-</table>
+</td></tr></table>
+
+<table><tr><td>
+
+**📚 兴趣爱好　　**心理学 · 易经 · 唱歌 · R&B
+
+</td></tr></table>
 
 ---
 
