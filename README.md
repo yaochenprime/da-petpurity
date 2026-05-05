@@ -5,7 +5,7 @@
 
 <!-- 联系方式 -->
 [![Gmail](https://img.shields.io/badge/Gmail-yaochenprime@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaochenprime@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=da-yaochenprime&style=flat-square&color=blue)](https://github.com/yaochenprime)
+[![Profile Views](https://komarev.com/ghpvc/?username=yaochenprime&style=flat-square&color=blue)](https://github.com/yaochenprime)
 
 </div>
 
@@ -80,9 +80,9 @@
 
 <!-- 需要配置 GitHub Action 生成蛇动画，见下方说明 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/da-yaochenprime/da-yaochenprime/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/da-yaochenprime/da-yaochenprime/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/da-yaochenprime/da-yaochenprime/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaochenprime/da-yaochenprime/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaochenprime/da-yaochenprime/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yaochenprime/da-yaochenprime/output/github-snake.svg" />
 </picture>
 
 </div>
