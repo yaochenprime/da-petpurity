@@ -109,6 +109,57 @@ def generate_side():
     print(f"侧边图已生成: {OUTPUT_SIDE}")
 
 
+def generate_section_titles():
+    """生成 section 标题图片，Cambria Math 斜体"""
+    try:
+        font = ImageFont.truetype("assets/CambriaMath.ttf", 28)
+    except (OSError, IOError):
+        font = ImageFont.load_default()
+
+    titles = {
+        "About Me": "assets/title-about-me.png",
+        "Tech Stack": "assets/title-tech-stack.png",
+        "Experience": "assets/title-experience.png",
+        "GitHub Stats": "assets/title-github-stats.png",
+        "Contribution Snake": "assets/title-contribution-snake.png",
+    }
+
+    for text, path in titles.items():
+        # 先测量文字尺寸
+        tmp = Image.new("RGBA", (1, 1))
+        tmp_draw = ImageDraw.Draw(tmp)
+        bbox = tmp_draw.textbbox((0, 0), text, font=font)
+        tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]
+
+        # 画文字再做斜切变换实现倾斜
+        padding = 20
+        text_img = Image.new("RGBA", (tw + padding * 2, th + padding * 2), (255, 255, 255, 0))
+        text_draw = ImageDraw.Draw(text_img)
+        text_draw.text((padding, padding - bbox[1]), text, fill=(0, 0, 0, 255), font=font)
+
+        # 仿射变换实现斜体（shear）
+        shear = -0.2  # 倾斜角度
+        w, h = text_img.size
+        new_w = int(w + abs(shear) * h)
+        text_img = text_img.transform(
+            (new_w, h),
+            Image.AFFINE,
+            (1, shear, -shear * h if shear < 0 else 0, 0, 1, 0),
+            resample=Image.BICUBIC,
+        )
+
+        # 裁剪透明边距
+        bbox_crop = text_img.getbbox()
+        if bbox_crop:
+            text_img = text_img.crop(bbox_crop)
+
+        # 合成到白底
+        final = Image.new("RGB", text_img.size, (255, 255, 255))
+        final.paste(text_img, (0, 0), text_img)
+        final.save(path)
+        print(f"标题图片已生成: {path}")
+
+
 if __name__ == "__main__":
     generate_header()
-    generate_side()
+    generate_section_titles()

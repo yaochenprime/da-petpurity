@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+<img src="assets/title-about-me.png" height="30" />
 
 > **☀️ 性格**
 > INTJ — 用数据解构世界，用直觉洞察本质。
@@ -27,7 +27,7 @@
 
 ---
 
-## Tech Stack
+<img src="assets/title-tech-stack.png" height="30" />
 
 **语言**
 
@@ -60,17 +60,7 @@
 
 ---
 
-## Experience
-
-| 时间 | 公司 | 职位 |
-| --- | --- | --- |
-| 2024 - 至今 | **高途** | 数据分析师 |
-
-<!-- 请替换为你的真实工作经历 -->
-
----
-
-## GitHub Stats
+<img src="assets/title-github-stats.png" height="30" />
 
 <div align="center">
 
@@ -80,7 +70,7 @@
 
 ---
 
-## Contribution Snake
+<img src="assets/title-contribution-snake.png" height="30" />
 
 <div align="center">
 
