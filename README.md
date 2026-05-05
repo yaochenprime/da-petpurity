@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 渐变装饰条 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,21,24&height=180&section=header&text=%20𝑌𝑎𝑜𝑐ℎ𝑒𝑛&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=数据分析师%20·%20数据科学%20·%20数据挖掘工程师&descSize=16&descAlignY=52&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A87C,50:D4789C,100:C56CD6&height=180&section=header&text=%20𝑌𝑎𝑜𝑐ℎ𝑒𝑛&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=数据分析师%20·%20数据科学%20·%20数据挖掘工程师&descSize=16&descAlignY=52&descColor=ffffff" />
 
 <!-- 联系方式 -->
 [![Gmail](https://img.shields.io/badge/Gmail-yaochenprime@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaochenprime@gmail.com)
@@ -71,6 +71,6 @@
 <div align="center">
 
 <!-- 底部装饰 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,21,24&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A87C,50:D4789C,100:C56CD6&height=100&section=footer" />
 
 </div>
