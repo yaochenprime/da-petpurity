@@ -11,7 +11,7 @@
 
 ---
 
-<img src="assets/title-about-me.png" height="30" />
+## *About Me*
 
 > **☀️ 性格**
 > INTJ — 用数据解构世界，用直觉洞察本质。
@@ -27,7 +27,7 @@
 
 ---
 
-<img src="assets/title-tech-stack.png" height="30" />
+## *Tech Stack*
 
 **语言**
 
@@ -60,7 +60,7 @@
 
 ---
 
-<img src="assets/title-github-stats.png" height="30" />
+## *GitHub Stats*
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 ---
 
-<img src="assets/title-contribution-snake.png" height="30" />
+## *Contribution Snake*
 
 <div align="center">
 
