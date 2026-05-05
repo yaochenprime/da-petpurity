@@ -4,8 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Dongwen%20Tan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=数据分析师%20·%20数据科学%20·%20数据挖掘工程师&descSize=16&descAlignY=52&descColor=ffffff" />
 
 <!-- 联系方式 -->
-[![Gmail](https://img.shields.io/badge/Gmail-yaochenprime@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaochenprime@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=yaochenprime&style=flat-square&color=blue)](https://github.com/yaochenprime)
+[![Gmail](https://img.shields.io/badge/Gmail-da-petpurity@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:da-petpurity@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=da-petpurity&style=flat-square&color=blue)](https://github.com/da-petpurity)
 
 </div>
 
@@ -68,10 +68,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yaochenprime&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaochenprime&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=da-petpurity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-petpurity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
-<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=yaochenprime&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=da-petpurity&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
@@ -83,9 +83,9 @@
 
 <!-- 需要配置 GitHub Action 生成蛇动画，见下方说明 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaochenprime/yaochenprime/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaochenprime/yaochenprime/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yaochenprime/yaochenprime/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/da-petpurity/da-petpurity/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/da-petpurity/da-petpurity/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/da-petpurity/da-petpurity/output/github-snake.svg" />
 </picture>
 
 </div>
