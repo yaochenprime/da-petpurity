@@ -13,6 +13,10 @@
 
 ## About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 > **☀️ 性格**
 > INTJ — 用数据解构世界，用直觉洞察本质。
 
@@ -24,6 +28,15 @@
 
 > **📚 兴趣爱好**
 > 心理学 · 易经 · 唱歌 · R&B
+
+</td>
+<td width="40%" align="center" valign="center">
+
+<img src="assets/particle-network.gif" width="300" />
+
+</td>
+</tr>
+</table>
 
 ---
 
