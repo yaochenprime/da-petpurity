@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 渐变装饰条 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,21,24&height=180&section=header&text=𝐻𝑖%20, %20𝐼'𝑚%20𝑌𝑎𝑜𝑐ℎ𝑒𝑛&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=数据分析师%20·%20数据科学%20·%20数据挖掘工程师&descSize=16&descAlignY=52&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,21,24&height=180&section=header&text=𝐻𝑖, %20%20𝐼'𝑚%20𝑌𝑎𝑜𝑐ℎ𝑒𝑛&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=数据分析师%20·%20数据科学%20·%20数据挖掘工程师&descSize=16&descAlignY=52&descColor=ffffff" />
 
 <!-- 联系方式 -->
 [![Gmail](https://img.shields.io/badge/Gmail-yaochenprime@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaochenprime@gmail.com)
