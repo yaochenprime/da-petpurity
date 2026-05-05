@@ -23,7 +23,7 @@ CLUSTERS = [
     (3,  750, 90, 120, 50, 170),   # 右侧小簇
 ]
 
-TITLE = "Hi   I'm Yaochen"
+TITLE = "Hi, I'm Yaochen"
 SUBTITLE = "数据分析师 · 数据科学家 · 数据挖掘工程师"
 
 
@@ -59,7 +59,7 @@ def generate_header():
         clusters.append((points, cd))
 
     try:
-        title_font = ImageFont.truetype("/System/Library/Fonts/Helvetica.ttc", 36)
+        title_font = ImageFont.truetype("/System/Library/Fonts/Helvetica.ttc", 42)
     except (OSError, IOError):
         title_font = ImageFont.load_default()
     try:
