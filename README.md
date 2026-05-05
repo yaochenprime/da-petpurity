@@ -25,12 +25,12 @@
 ## *Tech Stack*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache%20Hive-3776AB?style=for-the-badge&logo=apachehive&logoColor=white)
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-FF6F00?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![GRU](https://img.shields.io/badge/GRU-FF6F00?style=for-the-badge&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logoColor=white)
@@ -39,7 +39,7 @@
 
 ![ABtest](https://img.shields.io/badge/A%2FB%20Test-4CAF50?style=for-the-badge&logoColor=white)
 ![DID](https://img.shields.io/badge/DID%20-4CAF50?style=for-the-badge&logoColor=white)
-![Tigramite](https://img.shields.io/badge/Tigramite-2196F3?style=for-the-badge&logoColor=white)
+![Tigramite](https://img.shields.io/badge/Tigramite-4CAF50?style=for-the-badge&logoColor=white)
 
 ---
 
