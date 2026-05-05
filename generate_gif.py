@@ -59,7 +59,7 @@ def generate_header():
         clusters.append((points, cd))
 
     try:
-        title_font = ImageFont.truetype("/System/Library/Fonts/Helvetica.ttc", 42)
+        title_font = ImageFont.truetype("assets/CambriaMath.ttf", 42)
     except (OSError, IOError):
         title_font = ImageFont.load_default()
     try:
