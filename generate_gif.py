@@ -12,8 +12,8 @@ OUTPUT_HEADER = "assets/header-particle.png"
 OUTPUT_SIDE = "assets/particle-network.png"
 
 BG_COLOR = (255, 255, 255, 255)
-PARTICLE_COLOR = (0, 0, 0, 60)       # 粒子半透明
-LINE_ALPHA_MAX = 0.25                 # 连线最深透明度
+PARTICLE_COLOR = (0, 0, 0, 255)       # 纯黑粒子
+LINE_ALPHA_MAX = 0.5                  # 连线透明度
 
 # 三个簇: (粒子数, 中心x, 中心y, 散布x, 散布y, 连线距离)
 # 散布x远大于y，形成长条形
