@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 渐变装饰条 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A87C,50:D4789C,100:C56CD6&height=180&section=header&text=%20𝑌𝑎𝑜𝑐ℎ𝑒𝑛&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=数据分析师%20·%20数据科学%20·%20数据挖掘工程师&descSize=16&descAlignY=52&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A87C,50:D4789C,100:C56CD6&height=180&section=header&text=%20𝑌𝑎𝑜𝑐ℎ𝑒𝑛&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=数据分析%20·%20数据科学%20·%20数据挖掘工程师&descSize=16&descAlignY=52&descColor=ffffff" />
 
 <!-- 联系方式 -->
 [![Gmail](https://img.shields.io/badge/Gmail-yaochenprime@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaochenprime@gmail.com)
@@ -16,7 +16,7 @@
 | | |
 | --- | --- |
 | **性格** | INTJ — 用数据解构世界，用直觉洞察本质。 |
-| **专业方向** | 专注于用户分层、用户增长、因果推断与推荐算法、系统搭建，将数据洞察转化为业务增长。 |
+| **专业方向** | 专注于用户分层、用户增长、因果推断与推荐算法、系统和平台CLI搭建，将数据洞察转化为业务增长。 |
 | **工作理念** | 热爱用数据讲故事，追求用最简洁的方案解决复杂问题。 |
 | **兴趣爱好** | 心理学 · 易经 · 唱歌 · R&B |
 
